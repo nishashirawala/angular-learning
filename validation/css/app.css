@@ -1,0 +1,12 @@
+.error {
+    color :  red;
+}
+.form-control {
+	width : 30%;
+}
+.form-group{
+	margin-left: 20px;
+}
+.form-actions{
+	margin-left: 20px;
+}
